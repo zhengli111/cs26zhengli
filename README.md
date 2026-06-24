@@ -2,7 +2,7 @@ cs26zhengli Assessment
 =====================
 
 Involves
-* XXXXXX
+* cs26zhengli
 * git
 * GitHub
 * SSH
